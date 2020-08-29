@@ -1,2 +1,1 @@
-# work-scheduler
-Work scheduler that is interactive and functional. 
+# Work Day Scheduler Starter Code
