@@ -4,6 +4,6 @@ Create an intereactive workday scheduler that saves input even after refreshing.
 
 Use HTML to create the framework. Use CSS to create styling effects. And use JavaScript to make the scheduler interactive.
 
-
+file:///Users/sarahgambles/Desktop/super-disco/Develop/index.html
 
 
